@@ -76,7 +76,9 @@ Query 7 counts the number of PT sessions each trainer is teaching
 ![image](https://github.com/user-attachments/assets/b43bee18-0977-426a-a568-c1b22572b73f)
 Description: We don't want to overwhelm our trainers, so using this query we can find which trainers are teaching the most classes and make adjustments to help them balance their schedules.
 ### Query 8
-
+Query 8 lists the count of each membership type
+![image](https://github.com/user-attachments/assets/9b88a85b-5c66-464b-9c47-2cbaf1cf8bac)
+Description: This query helps our gym find which memberships are most popular and from there they can investigate why a membership is so popular whether that be the price of the membership or the amenities associated with the membership.
 ### Query 9
 
 ### Query 10
