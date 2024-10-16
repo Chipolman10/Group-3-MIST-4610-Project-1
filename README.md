@@ -72,7 +72,9 @@ Query 6 lists the day of the week and the total number of members regsistered fo
 ![image](https://github.com/user-attachments/assets/f20d0cb8-bcf7-4d94-90e3-f95cfe286950)
 Description: A gym wants see what day of the week it should add another yoga class for based on how many members are already registered for yoga class. A gym doesn't need to add another class on a Tuesday if Tuesdays are not popular among yoga class enrollees. This query gives us the total number of members registered by day of the week so that we can make an informed decesion about what day of the week the next yoga class should be taught on.
 ### Query 7
-
+Query 7 counts the number of PT sessions each trainer is teaching
+![image](https://github.com/user-attachments/assets/b43bee18-0977-426a-a568-c1b22572b73f)
+Description: We don't want to overwhelm our trainers, so using this query we can find which trainers are teaching the most classes and make adjustments to help them balance their schedules.
 ### Query 8
 
 ### Query 9
